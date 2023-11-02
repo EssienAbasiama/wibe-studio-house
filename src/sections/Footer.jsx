@@ -189,7 +189,7 @@ const Footer = () => {
               target={"_blank"}
               rel="dofollow noreferrer"
             >
-              CodeBucks
+              Kingx
             </a>
           </span>
         </Bottom>
