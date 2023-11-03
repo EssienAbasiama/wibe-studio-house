@@ -16,7 +16,6 @@ const Section = styled.section`
   align-items: center;
   overflow-x: hidden;
 
-
   background-color: ${(props) => props.theme.body};
   color: ${(props) => props.theme.text};
 
@@ -185,7 +184,7 @@ const Footer = () => {
           >
             Made with &hearts; by{" "}
             <a
-              href="http://devdreaming.com"
+              href="https://essienabasiama.vercel.app/"
               target={"_blank"}
               rel="dofollow noreferrer"
             >
